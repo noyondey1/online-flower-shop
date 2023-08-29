@@ -113,36 +113,36 @@ body {
 }
 
 .featured-bg-shape1 {
-  width: 414px;
+  width: 355px;
   height: 538px;
   background-color: rgba(167, 33, 98, 0.15);
   border-radius: 255px 255px 0px 0px;
 }
 
 .featured-bg-shape2 {
-  width: 414px;
+  width: 355px;
   height: 538px;
   background-color: rgba(5, 151, 160, 0.15);
   border-radius: 255px 255px 0px 0px;
 }
 
 .featured-bg-shape3 {
-  width: 414px;
+  width: 355px;
   height: 538px;
   background-color: rgba(71, 125, 17, 0.15);
   border-radius: 255px 255px 0px 0px;
 }
 
 .featured-image1 {
-  width: 310px;
+  width: 283px;
   height: 428px;
   position: relative;
   top: 110px;
-  left: 55px;
+  left: 38px;
 }
 
 .featured-image2 {
-  width: 370px;
+  width: 298px;
   height: 370px;
   position: relative;
   top: 108px;
@@ -150,11 +150,11 @@ body {
 }
 
 .featured-image3 {
-  width: 314px;
+  width: 298px;
   height: 471px;
   position: relative;
   top: 68px;
-  left: 55px;
+  left: 32px;
 }
 
 /* hot deal-section css */
@@ -206,7 +206,7 @@ body {
 }
 
 .instagram-image {
-  width: 324px;
+  width: 268px;
   height: 396px;
   /* padding: 0 5px; */
 }
@@ -216,7 +216,7 @@ body {
   /* margin-top: ; */
   text-align: center;
   background-image: url('../image/flower-asset/rectangle\ 9.png');
-  width: 1440px;
+  max-width: 1108px;
   height: 449px;
   margin: 128px auto;
 }
