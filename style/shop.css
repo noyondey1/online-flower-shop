@@ -156,3 +156,57 @@ body {
   top: 68px;
   left: 55px;
 }
+
+/* hot deal-section css */
+.hot-deal-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 35px;
+  padding: 100px 155px;
+  background: rgba(229, 84, 115, 0.05);
+  margin-top: 128px;
+}
+
+.hot-deal-info {
+  text-align: center;
+
+}
+
+/* .hot-deal-title span {
+  
+} */
+
+.hot-deal-image {
+  width: 318px;
+  height: 420px;
+}
+
+/* instagram section css */
+.instagram-container {
+  margin-top: 128px;
+}
+
+.instagram-info {
+  text-align: center;
+  padding-bottom: 48px;
+}
+
+/* .instagram-description {
+ 
+} */
+
+.instagram-image-container {
+  /* text-align: center; */
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.instagram-image {
+  width: 324px;
+  height: 396px;
+  /* padding: 0 5px; */
+}
