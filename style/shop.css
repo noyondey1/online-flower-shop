@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* shared css */
+.primary-title {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+  margin-bottom: 0;
+}
+
+.primary-description {
+  color: rgba(39, 39, 39, 0.60);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.primary-btn {
+  color: #FFF;
+  border-radius: 8px;
+  background-color: #E55473;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 20px 45px;
+  border: none;
+}
+
+.title-color {
+  color: #E55473;
+}
+
+/* banner section css */
+/* .banner {
+  max-height: 850px;
+  max-width: 1922px;
+  background-color: rgba(229, 84, 115, 0.10);
+  padding: 24px 95px 0;
+} */
+
+.banner-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 14px;
+  background-color: rgba(229, 84, 115, 0.10);
+  /* padding: 24px 95px 0; */
+
+}
+
+.banner-info {
+  /* max-width: 708px;
+  max-height: 506px; */
+  padding-left: 93px;
+  padding-right: 93px;
+}
+
+.banner-title {
+  color: #272727;
+  font-size: 55px;
+  font-weight: 800;
+  /* margin-bottom: 0; */
+}
+
+.banner-description {
+  /* color: rgba(39, 39, 39, 0.60);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px; */
+  /* padding-top: 25px; */
+  padding-bottom: 25px;
+
+}
+
+.banner-image {
+  width: 635px;
+  height: 800px;
+  padding-top: 55px;
+}
+
+/* featured flower section css */
+.featured-container {
+  margin-top: 128px;
+}
+
+.featured-info {
+  text-align: center;
+}
+
+.featured-description {
+  padding-bottom: 48px;
+}
+
+.featured-image-container {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
+
+.featured-bg-info p {
+  text-align: center;
+}
+
+.featured-bg-info>p>a {
+  color: #272727;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.featured-bg-shape1 {
+  width: 414px;
+  height: 538px;
+  background-color: rgba(167, 33, 98, 0.15);
+  border-radius: 255px 255px 0px 0px;
+}
+
+.featured-bg-shape2 {
+  width: 414px;
+  height: 538px;
+  background-color: rgba(5, 151, 160, 0.15);
+  border-radius: 255px 255px 0px 0px;
+}
+
+.featured-bg-shape3 {
+  width: 414px;
+  height: 538px;
+  background-color: rgba(71, 125, 17, 0.15);
+  border-radius: 255px 255px 0px 0px;
+}
+
+.featured-image1 {
+  width: 310px;
+  height: 428px;
+  position: relative;
+  top: 110px;
+  left: 55px;
+}
+
+.featured-image2 {
+  width: 370px;
+  height: 370px;
+  position: relative;
+  top: 108px;
+  left: 55px;
+}
+
+.featured-image3 {
+  width: 314px;
+  height: 471px;
+  position: relative;
+  top: 68px;
+  left: 55px;
+}
